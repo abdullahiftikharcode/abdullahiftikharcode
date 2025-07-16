@@ -12,7 +12,7 @@ Hey! I'm **Abdullah Iftikhar**, a **Full-Stack Developer** with **2 years of exp
 I’m a passionate **Application Developer** working with **Java**, **Kotlin**, and **Flutter**.  
 🏆 Winner of two prestigious national competitions:
 - 🥇 **PUCon Application Development Competition**
-- 🥇 **Softec Application Development Challenge**
+- 🥈 **Softec Application Development Challenge**
 
 ---
 
