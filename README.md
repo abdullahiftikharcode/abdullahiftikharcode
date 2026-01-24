@@ -9,10 +9,12 @@ Hey! I'm **Abdullah Iftikhar**, a **Full-Stack Developer** with **2 years of exp
 
 ## 📱 Application Development
 
-I’m a passionate **Application Developer** working with **Java**, **Kotlin**, and **Flutter**.  
-🏆 Winner of two prestigious national competitions:
-- 🥇 **PUCon Application Development Competition**
-- 🥈 **Softec Application Development Challenge**
+I’m a passionate **Application Developer** and  **Application Developer** working with **Java**, **Kotlin**, **Flutter** ,"Nextjs" etc.  
+🏆 Winner of four prestigious national competitions:
+- 🥇 **PUCon'25 Application Development Competition**
+- 🥇 **FCCU CODEFEST'25 Web Hackathon**
+- 🥇 **LoopVerse'25 Application Development Competition**
+- 🥈 **Softec'25 Application Development Challenge**
 
 ---
 
@@ -81,3 +83,4 @@ Book a free discovery call and receive a customized development roadmap within 2
 
   ## 💰 You can help me by Donating
   [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/abdullahiftikhar) 
+  
