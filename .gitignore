@@ -1,1 +1,6 @@
 /andriidrok1
+__pycache__/
+*.pyc
+image.png
+myinfo.txt
+myinfo-cleaned.json
