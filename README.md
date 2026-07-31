@@ -27,21 +27,47 @@ administrator, and holder of the Microsoft AI & ML Engineering certificate.
 
 <img src="./hd-stack.svg" width="620" alt="stack"/>
 
-<samp>python &nbsp; typescript &nbsp; javascript &nbsp; react &nbsp; next.js &nbsp; node &nbsp; fastapi &nbsp; flutter &nbsp; kotlin &nbsp; java &nbsp; c++ &nbsp; c# &nbsp; unity &nbsp; mysql &nbsp; postgres &nbsp; mongodb &nbsp; docker &nbsp; aws &nbsp; git &nbsp; linux</samp>
+<samp>python &nbsp; typescript &nbsp; javascript &nbsp; react &nbsp; next.js &nbsp; node &nbsp; express &nbsp; fastapi &nbsp; flutter &nbsp; dart &nbsp; kotlin &nbsp; java &nbsp; c++ &nbsp; c# &nbsp; unity &nbsp; sql &nbsp; mysql &nbsp; postgres &nbsp; mongodb &nbsp; firebase &nbsp; docker &nbsp; aws &nbsp; gemini &nbsp; opencv &nbsp; git &nbsp; linux</samp>
+
+<img src="./hd-experience.svg" width="620" alt="experience"/>
+
+**Full-Stack Developer** — Freelance &nbsp;·&nbsp; <samp>react, node, flutter, aws</samp><br>
+15+ web and mobile apps delivered for global clients at a 95% satisfaction<br>
+rate; serverless AWS Lambda backends serving 10,000+ monthly users; legacy<br>
+codebases optimised, database query times cut by half. Since Jan 2025.
+
+**Machine Learning Intern** — AiBee.pk &nbsp;·&nbsp; <samp>yolov8, tensorrt, docker</samp><br>
+Fine-tuned YOLOv8 and EfficientDet detectors to 92% mAP for retail analytics;<br>
+TensorRT and Docker inference pipelines 40% faster on edge devices; annotated<br>
+5,000+ images and automated data validation, lifting dataset quality by 25%.
+
+**Teaching Assistant** — ITU &nbsp;·&nbsp; <samp>software engineering</samp><br>
+Teaching assistant for the Software Engineering course at Information<br>
+Technology University, Lahore.
 
 <img src="./hd-projects.svg" width="620" alt="projects"/>
 
-**LucidLab AR Science Learning Platform** &nbsp;·&nbsp; <samp>unity, ar, gemini</samp><br>
-End-to-end AR science platform: instructors author experiments in a visual<br>
-studio, students run them on mobile. Gemini- and Vapi-assisted scene logic.
+**Karobar** &nbsp;·&nbsp; <samp>flutter, firebase, node</samp><br>
+SOFTEC'26 runner-up, built in 24 hours: cash-flow tracking, invoicing,<br>
+receipt OCR, forecasting and bulk imports — with a WhatsApp agent for<br>
+inbound commands, outbound alerts, reminders and daily business snapshots.
+
+**[LucidLab AR](https://github.com/abdullahiftikharcode/LucidLab)** &nbsp;·&nbsp; <samp>unity, ar, gemini</samp><br>
+AR science platform: instructors author experiments in a visual studio,<br>
+students run them on mobile; marker- and plane-based AR with Gemini and<br>
+Vapi voice assistance, and high-fidelity chemistry simulations.
+
+**LoopLab** &nbsp;·&nbsp; <samp>flutter, firebase</samp><br>
+Student tech-community app, LoopVerse'25 first place: video lectures, live<br>
+sessions, gamification, events and real-time chat with AI-powered support.
 
 **SQL Chat Assistant** &nbsp;·&nbsp; <samp>next.js, fastapi, gemini</samp><br>
-Ask databases questions in plain English. Natural language to SQL across<br>
-MySQL, PostgreSQL and SQL Server, with schema visualisation and multi-DB.
+Natural language to SQL across MySQL, PostgreSQL and SQL Server, with<br>
+schema visualisation, multi-database management and JWT-backed auth.
 
 **GigPanda** &nbsp;·&nbsp; <samp>mern, socket.io</samp><br>
-Freelancing platform with separate client and freelancer dashboards,<br>
-real-time messaging, contracts, proposals and a built-in chatbot assistant.
+MERN freelancing platform: separate client and freelancer dashboards,<br>
+real-time messaging, contracts, proposals and a built-in chatbot.
 
 **CitrusNet** &nbsp;·&nbsp; <samp>python, cnn</samp><br>
 CNN classifying citrus leaf health — HLB, nutrient deficiency and pest<br>
