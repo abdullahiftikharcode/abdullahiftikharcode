@@ -76,14 +76,6 @@ AR science platform: instructors author experiments in a visual studio,<br>
 students run them on mobile; marker- and plane-based AR with Gemini and<br>
 Vapi voice assistance, and high-fidelity chemistry simulations.
 
-**LoopLab** &nbsp;·&nbsp; <samp>flutter, firebase</samp><br>
-Student tech-community app, LoopVerse'25 first place: video lectures, live<br>
-sessions, gamification, events and real-time chat with AI-powered support.
-
-**GigPanda** &nbsp;·&nbsp; <samp>mern, socket.io</samp><br>
-MERN freelancing platform: separate client and freelancer dashboards,<br>
-real-time messaging, contracts, proposals and a built-in chatbot.
-
 <img src="./hd-stats.svg" width="620" alt="stats"/>
 
 <div align="center">
