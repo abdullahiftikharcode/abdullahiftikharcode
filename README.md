@@ -5,6 +5,7 @@
 <img src="./stats.svg" width="620" alt="Contributions in the last year"/>
 
 [portfolio](https://abdullahiftikhar.vercel.app) &nbsp;·&nbsp;
+[<kbd>resume</kbd>](resume.pdf) &nbsp;·&nbsp;
 [linkedin](https://www.linkedin.com/in/abdullahi-iftikhar/) &nbsp;·&nbsp;
 [instagram](https://instagram.com/abdullahiftikhar) &nbsp;·&nbsp;
 [email](mailto:abdullahiftikharcode@gmail.com) &nbsp;·&nbsp;
