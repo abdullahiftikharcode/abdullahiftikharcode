@@ -28,8 +28,17 @@ administrator, and holder of the Microsoft AI & ML Engineering certificate.
 
 <img src="./hd-stack.svg" width="620" alt="stack"/>
 
-<samp>python &nbsp; typescript &nbsp; javascript &nbsp; go &nbsp; c++ &nbsp; c# &nbsp; c &nbsp; java &nbsp; kotlin &nbsp; dart &nbsp; sql &nbsp; assembly &nbsp; react &nbsp; next.js &nbsp; node &nbsp; express &nbsp; fastapi &nbsp; flask &nbsp; django &nbsp; flutter &nbsp; unity</samp><br>
-<samp>rag &nbsp; llm &nbsp; gemini &nbsp; azure openai &nbsp; pytorch &nbsp; tensorflow &nbsp; opencv &nbsp; postgres &nbsp; mysql &nbsp; mongodb &nbsp; redis &nbsp; clickhouse &nbsp; qdrant &nbsp; firebase &nbsp; supabase &nbsp; docker &nbsp; kubernetes &nbsp; aws &nbsp; azure &nbsp; gcp &nbsp; terraform &nbsp; git &nbsp; ci/cd</samp>
+**Languages:** <samp>python &nbsp; typescript &nbsp; javascript &nbsp; go &nbsp; c++ &nbsp; c# &nbsp; c &nbsp; java &nbsp; kotlin &nbsp; dart &nbsp; sql &nbsp; assembly</samp>
+
+**Frameworks:** <samp>react &nbsp; next.js &nbsp; node &nbsp; express &nbsp; fastapi &nbsp; flask &nbsp; django &nbsp; gradio &nbsp; flutter &nbsp; unity &nbsp; ar</samp>
+
+**AI/ML:** <samp>rag &nbsp; llm &nbsp; gemini &nbsp; azure openai &nbsp; cohere &nbsp; vapi &nbsp; prompt engineering &nbsp; pytorch &nbsp; tensorflow &nbsp; yolo &nbsp; cnn &nbsp; opencv</samp>
+
+**Databases:** <samp>postgres &nbsp; mysql &nbsp; mongodb &nbsp; sqlite &nbsp; redis &nbsp; clickhouse &nbsp; qdrant &nbsp; firebase &nbsp; supabase</samp>
+
+**Cloud/DevOps:** <samp>docker &nbsp; kubernetes &nbsp; aws &nbsp; azure &nbsp; gcp &nbsp; vercel &nbsp; terraform &nbsp; github actions &nbsp; ci/cd</samp>
+
+**Tools:** <samp>git &nbsp; rest apis &nbsp; jwt &nbsp; websockets &nbsp; socket.io &nbsp; rabbitmq &nbsp; microservices &nbsp; linux &nbsp; figma</samp>
 
 <img src="./hd-experience.svg" width="620" alt="experience"/>
 
